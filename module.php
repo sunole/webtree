@@ -11,6 +11,11 @@ declare(strict_types=1);
 
 namespace MagicSunday\Webtrees;
 
+namespace MagicSunday\Webtrees1;
+namespace MagicSunday\Webtrees2;
+namespace MagicSunday\Webtrees3;
+
+
 use Composer\Autoload\ClassLoader;
 use MagicSunday\Webtrees\FanChart\Module;
 
