@@ -1,0 +1,7 @@
+.idea/
+vendor/
+node_modules/
+composer.lock
+package-lock.json
+resources/js/fan-chart.js
+webtrees-fan-chart.zip

@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-01-11 08:34+0100\n"
+"PO-Revision-Date: 2023-01-11 08:34+0100\n"
+"Last-Translator: Rico Sonntag <mail@ricosonntag.de>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-KeywordsList: translate\n"
+"X-Poedit-SearchPath-0: src\n"
+"X-Poedit-SearchPath-1: resources/views\n"
+
+#: src/Module.php:116 src/Module.php:220
+msgid "Fan chart"
+msgstr "Éventail des ancêtres"
+
+#: src/Module.php:126
+msgid "A fan chart of an individual’s ancestors."
+msgstr "Un éventail des ancêtres d'un individu."
+
+#: src/Module.php:223 src/Traits/ModuleChartTrait.php:38
+#, php-format
+msgid "Fan chart of %s"
+msgstr "Éventail des ancêtres de %s"
+
+#: src/Module.php:243
+msgid "Use Ctrl + scroll to zoom in the view"
+msgstr "Utiliser Ctrl + molette pour zoomer dans la vue"
+
+#: src/Module.php:244
+msgid "Move the view with two fingers"
+msgstr "Déplacer la vue avec deux doigts"
+
+#: src/Traits/IndividualTrait.php:151
+#, php-format
+msgid "Born: %s"
+msgstr "Naissance: %s"
+
+#: src/Traits/IndividualTrait.php:155
+#, php-format
+msgid "Died: %s"
+msgstr "Décès: %s"
+
+#: src/Traits/IndividualTrait.php:159
+msgid "Deceased"
+msgstr "Décédé"
+
+#: resources/views/chart.phtml:35
+msgid "Individual"
+msgstr "Individu"
+
+#: resources/views/chart.phtml:52
+msgid "Fan size"
+msgstr "Taille de l'éventail"
+
+#: resources/views/chart.phtml:62
+msgid "Generations"
+msgstr "Générations"
+
+#: resources/views/chart.phtml:80
+msgid "Presentation"
+msgstr "Affichage"
+
+#: resources/views/chart.phtml:87
+msgid "Hide empty segments"
+msgstr "Cacher les segments vides"
+
+#: resources/views/chart.phtml:96
+msgid "Show color gradients"
+msgstr "Montrer les gradients de couleur"
+
+#: resources/views/chart.phtml:105
+msgid "Show parent marriage dates"
+msgstr "Afficher les dates de mariage des parents"
+
+#: resources/views/chart.phtml:114
+msgid "Number of inner levels"
+msgstr "Nombre de niveaux internes"
+
+#: resources/views/chart.phtml:127
+msgid ""
+"Specifies the number of levels in which the text is written along an arc."
+msgstr ""
+"Spécifie le nombre de niveaux pour lesquel le texte est écrit le long d'un "
+"arc."
+
+#: resources/views/chart.phtml:134
+msgid "Font size"
+msgstr "Taille de police"
+
+#: resources/views/chart.phtml:159
+msgid "Show more options"
+msgstr "Afficher les options"
+
+#: resources/views/chart.phtml:160
+msgid "Hide more options"
+msgstr "Masquer les options"
+
+#: resources/views/chart.phtml:165
+msgid "view"
+msgstr "afficher"
+
+#: resources/views/chart.phtml:171
+msgid "Re center"
+msgstr "Re centrer"
+
+#: resources/views/chart.phtml:176
+msgid "Export as PNG"
+msgstr "Exporter au format PNG"
+
+#: resources/views/chart.phtml:179
+msgid "Export as SVG"
+msgstr "Exporter au format SVG"
+
+#~ msgid "reset"
+#~ msgstr "réinitialiser"
